@@ -1,0 +1,198 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// “ú–{Œê resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_JPN)
+#ifdef _WIN32
+LANGUAGE LANG_JAPANESE, SUBLANG_DEFAULT
+#pragma code_page(932)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// PNG
+//
+
+IDB_BG                  PNG                     ".\\pic\\bg.png"
+IDB_FUDA1               PNG                     ".\\pic\\fuda0.png"
+IDB_FUDA2               PNG                     ".\\pic\\fuda1.png"
+IDB_FUDA3               PNG                     ".\\pic\\fuda2.png"
+IDB_FUDA4               PNG                     ".\\pic\\fuda3.png"
+IDB_FUDA5               PNG                     ".\\pic\\fuda4.png"
+IDB_FUDA6               PNG                     ".\\pic\\fuda5.png"
+IDB_FUDA7               PNG                     ".\\pic\\fuda6.png"
+IDB_FUDA8               PNG                     ".\\pic\\fuda7.png"
+IDB_FUDA9               PNG                     ".\\pic\\fuda8.png"
+IDB_FUDA10              PNG                     ".\\pic\\fuda9.png"
+IDB_FUDA11              PNG                     ".\\pic\\fuda10.png"
+IDB_FUDA12              PNG                     ".\\pic\\fuda11.png"
+IDB_FUDA13              PNG                     ".\\pic\\fuda12.png"
+IDB_FUDA14              PNG                     ".\\pic\\fuda13.png"
+IDB_FUDA15              PNG                     ".\\pic\\fuda14.png"
+IDB_FUDA16              PNG                     ".\\pic\\fuda15.png"
+IDB_FUDA17              PNG                     ".\\pic\\fuda16.png"
+IDB_FUDA18              PNG                     ".\\pic\\fuda17.png"
+IDB_FUDA19              PNG                     ".\\pic\\fuda18.png"
+IDB_FUDA20              PNG                     ".\\pic\\fuda19.png"
+IDB_FUDA21              PNG                     ".\\pic\\fuda20.png"
+IDB_FUDA22              PNG                     ".\\pic\\fuda21.png"
+IDB_FUDA23              PNG                     ".\\pic\\fuda22.png"
+IDB_FUDA24              PNG                     ".\\pic\\fuda23.png"
+IDB_FUDA25              PNG                     ".\\pic\\fuda24.png"
+IDB_FUDA26              PNG                     ".\\pic\\fuda25.png"
+IDB_FUDA27              PNG                     ".\\pic\\fuda26.png"
+IDB_FUDA28              PNG                     ".\\pic\\fuda27.png"
+IDB_FUDA29              PNG                     ".\\pic\\fuda28.png"
+IDB_FUDA30              PNG                     ".\\pic\\fuda29.png"
+IDB_FUDA31              PNG                     ".\\pic\\fuda30.png"
+IDB_FUDA32              PNG                     ".\\pic\\fuda31.png"
+IDB_FUDA33              PNG                     ".\\pic\\fuda32.png"
+IDB_FUDA34              PNG                     ".\\pic\\fuda33.png"
+IDB_FUDA35              PNG                     ".\\pic\\fuda34.png"
+IDB_FUDA36              PNG                     ".\\pic\\fuda35.png"
+IDB_FUDA37              PNG                     ".\\pic\\fuda36.png"
+IDB_FUDA38              PNG                     ".\\pic\\fuda37.png"
+IDB_FUDA39              PNG                     ".\\pic\\fuda38.png"
+IDB_FUDA40              PNG                     ".\\pic\\fuda39.png"
+IDB_FUDA41              PNG                     ".\\pic\\fuda40.png"
+IDB_FUDA42              PNG                     ".\\pic\\fuda41.png"
+IDB_FUDA43              PNG                     ".\\pic\\fuda42.png"
+IDB_FUDA44              PNG                     ".\\pic\\fuda43.png"
+IDB_FUDA45              PNG                     ".\\pic\\fuda44.png"
+IDB_FUDA46              PNG                     ".\\pic\\fuda45.png"
+IDB_FUDA47              PNG                     ".\\pic\\fuda46.png"
+IDB_FUDA48              PNG                     ".\\pic\\fuda47.png"
+IDB_URA                 PNG                     ".\\pic\\fuda_ura.png"
+IDB_STR_1G              PNG                     ".\\pic\\s_1g.png"
+IDB_STR_2G              PNG                     ".\\pic\\s_2g.png"
+IDB_STR_3G              PNG                     ".\\pic\\s_3g.png"
+IDB_STR_4G              PNG                     ".\\pic\\s_4g.png"
+IDB_STR_5G              PNG                     ".\\pic\\s_5g.png"
+IDB_STR_6G              PNG                     ".\\pic\\s_6g.png"
+IDB_STR_7G              PNG                     ".\\pic\\s_7g.png"
+IDB_STR_8G              PNG                     ".\\pic\\s_8g.png"
+IDB_STR_9G              PNG                     ".\\pic\\s_9g.png"
+IDB_STR_10G             PNG                     ".\\pic\\s_10g.png"
+IDB_STR_11G             PNG                     ".\\pic\\s_11g.png"
+IDB_STR_12G             PNG                     ".\\pic\\s_12g.png"
+IDB_STR_ANO             PNG                     ".\\pic\\s_anata_oya.png"
+IDB_STR_ERA             PNG                     ".\\pic\\s_erande.png"
+IDB_STR_WAO             PNG                     ".\\pic\\s_watashi_oya.png"
+IDB_STR_COM             PNG                     ".\\pic\\s_com.png"
+IDB_STR_YOU             PNG                     ".\\pic\\s_anata.png"
+IDB_YAKU                PNG                     ".\\pic\\yaku.png"
+IDB_STR_GOKO            PNG                     ".\\pic\\s_goko.png"
+IDB_STR_SHIKO           PNG                     ".\\pic\\s_shiko.png"
+IDB_STR_AMESHIKO        PNG                     ".\\pic\\s_ameshiko.png"
+IDB_STR_SANKO           PNG                     ".\\pic\\s_sanko.png"
+IDB_STR_HANAMI          PNG                     ".\\pic\\s_hanami.png"
+IDB_STR_TSUKIMI         PNG                     ".\\pic\\s_tsukimi.png"
+IDB_STR_AKATAN          PNG                     ".\\pic\\s_akatan.png"
+IDB_STR_AOTAN           PNG                     ".\\pic\\s_aotan.png"
+IDB_STR_INOSHIKA        PNG                     ".\\pic\\s_inoshika.png"
+IDB_STR_TANE            PNG                     ".\\pic\\s_tane.png"
+IDB_STR_TAN             PNG                     ".\\pic\\s_tan.png"
+IDB_STR_KASU            PNG                     ".\\pic\\s_kasu.png"
+IDB_STR_OYAKEN          PNG                     ".\\pic\\s_oyaken.png"
+IDB_STR_KOIKOI1         PNG                     ".\\pic\\s_koikoi1.png"
+IDB_STR_KOIKOI2         PNG                     ".\\pic\\s_koikoi2.png"
+IDB_STR_HAI             PNG                     ".\\pic\\s_hai.png"
+IDB_STR_IIE             PNG                     ".\\pic\\s_iie.png"
+IDB_STR_B_0             PNG                     ".\\pic\\s_b_0.png"
+IDB_STR_B_1             PNG                     ".\\pic\\s_b_1.png"
+IDB_STR_B_2             PNG                     ".\\pic\\s_b_2.png"
+IDB_STR_B_3             PNG                     ".\\pic\\s_b_3.png"
+IDB_STR_B_4             PNG                     ".\\pic\\s_b_4.png"
+IDB_STR_B_5             PNG                     ".\\pic\\s_b_5.png"
+IDB_STR_B_6             PNG                     ".\\pic\\s_b_6.png"
+IDB_STR_B_7             PNG                     ".\\pic\\s_b_7.png"
+IDB_STR_B_8             PNG                     ".\\pic\\s_b_8.png"
+IDB_STR_B_9             PNG                     ".\\pic\\s_b_9.png"
+IDB_STR_B_MON           PNG                     ".\\pic\\s_b_mon.png"
+IDB_STR_B_GOUKEI        PNG                     ".\\pic\\s_b_goukei.png"
+IDB_STR_W_0             PNG                     ".\\pic\\s_w_0.png"
+IDB_STR_W_1             PNG                     ".\\pic\\s_w_1.png"
+IDB_STR_W_2             PNG                     ".\\pic\\s_w_2.png"
+IDB_STR_W_3             PNG                     ".\\pic\\s_w_3.png"
+IDB_STR_W_4             PNG                     ".\\pic\\s_w_4.png"
+IDB_STR_W_5             PNG                     ".\\pic\\s_w_5.png"
+IDB_STR_W_6             PNG                     ".\\pic\\s_w_6.png"
+IDB_STR_W_7             PNG                     ".\\pic\\s_w_7.png"
+IDB_STR_W_8             PNG                     ".\\pic\\s_w_8.png"
+IDB_STR_W_9             PNG                     ".\\pic\\s_w_9.png"
+IDB_STR_W_MON           PNG                     ".\\pic\\s_w_mon.png"
+IDB_STR_W_GOUKEI        PNG                     ".\\pic\\s_w_goukei.png"
+IDB_STR_WAK             PNG                     ".\\pic\\s_watashi_kachi.png"
+IDB_STR_ANK             PNG                     ".\\pic\\s_anata_kachi.png"
+IDB_STR_DRAW            PNG                     ".\\pic\\s_hikiwake.png"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// MP3
+//
+
+IDR_MP3_ACHEIVE         MP3                     ".\\msc\\jingi1.mp3"
+IDR_MP3_ENDING          MP3                     ".\\msc\\jingi2.mp3"
+IDR_MP3_WIN             MP3                     ".\\msc\\jingi3.mp3"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// WAVE
+//
+
+IDR_WAV_PUT1            WAVE                    ".\\msc\\pan1.wav"
+IDR_WAV_PUT2            WAVE                    ".\\msc\\pan2.wav"
+#endif    // “ú–{Œê resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hanafuda", "Hanafuda\Hanafuda.vcproj", "{31868DA9-C608-4246-9D82-CC57913D04DF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RS", "RS\RS.vcproj", "{729C1F7B-ABE0-4290-901C-9041E11011AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31868DA9-C608-4246-9D82-CC57913D04DF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{31868DA9-C608-4246-9D82-CC57913D04DF}.Debug|Win32.Build.0 = Debug|Win32
+		{31868DA9-C608-4246-9D82-CC57913D04DF}.Release|Win32.ActiveCfg = Release|Win32
+		{31868DA9-C608-4246-9D82-CC57913D04DF}.Release|Win32.Build.0 = Release|Win32
+		{729C1F7B-ABE0-4290-901C-9041E11011AA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{729C1F7B-ABE0-4290-901C-9041E11011AA}.Debug|Win32.Build.0 = Debug|Win32
+		{729C1F7B-ABE0-4290-901C-9041E11011AA}.Release|Win32.ActiveCfg = Release|Win32
+		{729C1F7B-ABE0-4290-901C-9041E11011AA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
